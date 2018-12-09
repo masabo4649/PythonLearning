@@ -1,5 +1,5 @@
 # http://at.hatenadiary.com/entry/2017/07/02/001500
-
+# to set up atom coding environment
 print ("Hello World")
 
 %matplotlib inline
